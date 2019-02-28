@@ -1,5 +1,7 @@
 # tmuxconfig
-**A sample Configuration File For Tmux**![screenshot](/Users/peterluo/tmuxconfig/screenshot.png)
+**A sample Configuration File For Tmux**
+
+<img src="./screenshot.png" width="84%">
 
 # Installation
 
@@ -18,3 +20,4 @@ On Linux/macOS:
 On Windows:
 
 Manually move `.\tmux.conf`  to your home folder and rename it
+
