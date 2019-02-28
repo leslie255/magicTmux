@@ -5,6 +5,14 @@
 
 # Installation
 
+Clone the repo:
+
+```shell
+git clone git@github.com:peterzililuo/tmuxconfig.git
+```
+
+
+
 On Linux/macOS:
 
 `./install.sh`
@@ -12,3 +20,4 @@ On Linux/macOS:
 On Windows:
 
 Manually move `.\tmux.conf`  to your home folder and rename it
+
