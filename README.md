@@ -20,4 +20,3 @@ On Linux/macOS:
 On Windows:
 
 Manually move `.\tmux.conf`  to your home folder and rename it
-
