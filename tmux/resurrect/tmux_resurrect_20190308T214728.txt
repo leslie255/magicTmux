@@ -1,5 +1,0 @@
-pane	0	0	:vim	1	:*	0	:/Users/peterluo	0	vim	:vim /Users/peterluo/.tmux.conf
-pane	0	0	:vim	1	:*	1	:/Users/peterluo	1	zsh	:
-pane	0	0	:vim	1	:*	2	:/Users/peterluo	0	zsh	:
-window	0	0	1	:*	50ba,238x68,0,0{119x68,0,0,1,118x68,120,0[118x34,120,0,2,118x33,120,35,3]}
-state	0	
