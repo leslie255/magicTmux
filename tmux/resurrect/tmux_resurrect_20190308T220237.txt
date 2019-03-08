@@ -1,0 +1,3 @@
+pane	0	0	:vim	1	:*	0	:/Users/peterluo	1	vim	:vim /Users/peterluo/.tmux.conf
+window	0	0	1	:*	d360,238x68,0,0,3
+state	0	

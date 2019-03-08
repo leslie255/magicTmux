@@ -1,0 +1,9 @@
+pane	0	0	:vim	1	:*	0	:/Users/peterluo	1	vim	:vim /Users/peterluo/.tmux.conf
+pane	0	0	:vim	1	:*	1	:/Users/peterluo	0	zsh	:
+pane	0	0	:vim	1	:*	2	:/Users/peterluo	0	zsh	:
+pane	0	1	:zsh	0	:-	0	:/Users/peterluo	1	zsh	:
+pane	0	2	:htop	0	:	0	:/Users/peterluo	1	htop	:htop
+window	0	0	1	:*	4cc3,238x68,0,0{119x68,0,0,3,118x68,120,0[118x34,120,0,4,118x33,120,35,5]}
+window	0	1	0	:-	d363,238x68,0,0,6
+window	0	2	0	:	d364,238x68,0,0,7
+state	0	

@@ -1,0 +1,11 @@
+pane	0	0	:vim	1	:*	0	:/Users/peterluo/Developer/Shell/tmuxconfig	1	vim	:vim /Users/peterluo/.tmux.conf
+pane	0	0	:vim	1	:*	1	:/Users/peterluo/Developer/Shell/tmuxconfig	0	zsh	:
+pane	0	0	:vim	1	:*	2	:/Users/peterluo	0	zsh	:
+pane	0	1	:htop	0	:-	0	:/Users/peterluo	1	htop	:htop
+pane	0	2	:cmus	0	:	0	:/Users/peterluo	1	cmus	:cmus
+pane	demo	0	:zsh	1	:*	0	:/Users/peterluo	1	zsh	:
+window	0	0	1	:*	58d2,238x68,0,0{113x68,0,0,1,124x68,114,0[124x35,114,0,4,124x32,114,36,7]}
+window	0	1	0	:-	69e0,238x68,0,0,11
+window	0	2	0	:	69e1,238x68,0,0,12
+window	demo	0	1	:*	6832,160x49,0,0,13
+state	0	
