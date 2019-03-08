@@ -1,7 +1,14 @@
+<center>
+
 # tmuxconfig
+
+<a href="README.cn.md">Chinese Version</a>
+
 **A sample Configuration File For Tmux**
 
 <img src="./screenshot.png" width="84%">
+
+</center>
 
 # Installation
 
@@ -25,9 +32,9 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 
 **Panes**
 
-`<prefix> 1` spilit screen on the right
+`<prefix> 1` spilit screen right
 
-`<prefix> 2` spilit screen on the left
+`<prefix> 2` spilit screen down
 
 `<prefix> 0` kill pane
 

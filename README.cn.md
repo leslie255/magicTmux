@@ -1,7 +1,12 @@
+<center>
+
 # tmuxconfig
+
 **一个 Tmux 配置文件**
 
 <img src="./screenshot.png" width="84%">
+
+</center>
 
 # 安装
 
