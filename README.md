@@ -47,8 +47,6 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 
 `<prefix> c` new window
 
-`<prefix> [number]` switch to window [number]
-
 `<prefix> <C-h>` switch to the left window
 
 `<prefix> <C-l>` switch to the right window
