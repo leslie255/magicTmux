@@ -8,7 +8,7 @@
 Clone the repo:
 
 ```shell
-git clone git@github.com:peterzililuo/tmuxconfig.git
+git clone https://github.com/peterzililuo/tmuxconfig.git
 ```
 
 On Linux/macOS:
