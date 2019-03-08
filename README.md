@@ -43,6 +43,10 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 
 `<prefix> m` maximum pane
 
+`<prefix> h/j/k/l` navigating between panes
+
+***
+
 **Windows**
 
 `<prefix> c` new window
@@ -52,6 +56,8 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 `<prefix> <C-l>` switch to the right window
 
 `<prefix> q` kill window
+
+***
 
 **Status bar**
 
