@@ -1,7 +1,7 @@
 # tmuxconfig
 **A sample Configuration File For Tmux**
 
-<img src="./screenshot.jpg" width="84%">
+<img src="./screenshot.png" width="84%">
 
 # Installation
 
