@@ -73,3 +73,9 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 
 
 *P.S.Other shortcuts works the same way as default shortcuts*
+
+# New Features
+
+In the latest commit, I brings a fantastic status bar.  Despite the beautiful new design, the brand new status bar could also display more information such as battery remain, cpu usage, etc.
+
+The latest version also provided lots of plugins, in the bottom of `~/.tmux.conf`, you could see list of plugins managed by <a href="https://github.com/tmux-plugins/tpm">Tmux Plugin manger</a>.  So you can customize your plugins by uncommenting the scripts
