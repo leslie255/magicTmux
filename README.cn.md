@@ -74,6 +74,16 @@ git clone https://github.com/peterzililuo/tmuxconfig.git
 
 # 新特性
 
+***1.0 版本***：
+
 在最近一次的 Commit 中，我带来了一个酷炫的 状态栏。这个新的状态栏不仅超酷炫，还可以显示很多信息，比如电量，CPU 使用情况等。
 
 最新的版本还提供了一系列的插件，在 `~/.tmux.conf` 的底部，你可以看见很多由 <a href="https://github.com/tmux-plugins/tpm">Tmux Plugin manger</a>管理的插件，你可以轻松的管理这些插件。
+
+***1.1 版本***
+
+Install.sh 现在可以自动备份你之前的配置
+
+在 `~/.tmux.conf` 中添加了更多的插件
+
+状态栏上的`✔` 符号改成了蓝色
