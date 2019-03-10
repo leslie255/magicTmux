@@ -12,7 +12,7 @@
 
 在 Linux/macOS 上：
 
-`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/develop/install.sh" | /bin/sh`
+`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/install.sh" | /bin/sh`
 
 # 使用
 

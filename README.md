@@ -14,7 +14,7 @@
 
 on Linux/macOS:
 
-`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/develop/install.sh" | /bin/sh`
+`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/install.sh" | /bin/sh`
 
 # Usage
 
