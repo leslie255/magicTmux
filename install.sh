@@ -1,11 +1,10 @@
-# backup
-mkdir ~/.tmux-backup
-mv ~/.tmux.conf ~/.tmux-backup
-mv ~/.tmux/ ~/.tmux-backup
+echo "\nRecieving objects...\n\n"
 
-# copy files
-cp ./tmux.conf ~/
-rm -rf ~/.tmux/
-mkdir ~/.tmux
-ditto ./tmux/ ~/.tmux/
-mv ~/tmux.conf ~/.tmux.conf
+cp ~/.tmux.conf ~/.tmux.previous-conf
+curl https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/tmux.conf -o ~/.tmux.conf
+
+echo "\nInstalling Tmux Plugin Manager (TPM)\n\n"
+
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+echo "\nInstallation Finished\npls do <prefix> + I to install plugins & restart your tmux to see effects\n\n"
