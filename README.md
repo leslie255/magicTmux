@@ -12,19 +12,9 @@
 
 # Installation
 
-Clone the repo:
+on Linux/macOS:
 
-```shell
-git clone https://github.com/peterzililuo/tmuxconfig.git
-```
-
-On Linux/macOS:
-
-`./install.sh`
-
-On Windows:
-
-Manually move `tmux.conf`  to your home folder and rename it
+`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/develop/install.sh" | /bin/sh`
 
 # Usage
 
@@ -72,20 +62,4 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 
 
 
-*P.S.Other shortcuts works the same way as default shortcuts*
-
-# New Features
-
-***In version 1.0:***
-
-In the latest commit, I brings a fantastic status bar.  Despite the beautiful new design, the brand new status bar could also display more information such as battery remain, cpu usage, etc.
-
-The latest version also provided lots of plugins, in the bottom of `~/.tmux.conf`, you could see list of plugins managed by <a href="https://github.com/tmux-plugins/tpm">Tmux Plugin manger</a>.  So you can customize your plugins by uncommenting the scripts
-
-***In version 1.1:***
-
-Install.sh script can automatically backup your previous configuration file.
-
-More plugins is added into `~/.tmux.conf`.
-
-The symbol ✔ in status bar changed into blue.
+*P.S.Other shortcuts works the same way as default shortcuts
