@@ -7,4 +7,8 @@ echo "\nInstalling Tmux Plugin Manager (TPM)\n\n"
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
+curl https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/hello.txt -o ~/.hello.txt
+
+echo "\n\n\n"
+cat ~/.hello.txt
 echo "\nInstallation Finished\npls do <prefix> + I to install plugins & restart your tmux to see effects\n\n"
