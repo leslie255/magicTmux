@@ -1,24 +1,28 @@
-<center>
-
 # tmuxconfig
 
-<a href="README.cn.md">Chinese Version</a>
+<a href="README.cn.md">Chinese User？</a>
 
-**A sample Configuration File For Tmux**
+**A super great configuration file for Tmux**
 
 <img src="./screenshot.png" width="84%">
 
-</center>
+## Installation
 
-# Installation
+You would need to <a href="installtmux.md">install tmux</a> first
+
+If tmux had already been installed:
 
 on Linux/macOS:
 
 `curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/install.sh" | /bin/sh`
 
-# Usage
+on Windows:
+Clone the repo & manually install
+(would supports auto-install for windows in the future)
 
-This config use `<C-x>` as prefix, here is the shortcuts list:
+## Usage
+
+**This config uses `<C-x>` as prefix, here is the shortcuts list:**
 
 **Panes**
 
@@ -60,6 +64,23 @@ This config use `<C-x>` as prefix, here is the shortcuts list:
 
 `<prefix> s` hide/show status bar
 
+Other shortcuts works the same way as default shortcuts does
 
 
-*P.S.Other shortcuts works the same way as default shortcuts
+
+## Features
+
+**Displaying status on the right bottom corner**
+*Prefix down, Battery remain, CPU percentage, Time*
+
+
+
+**Lots of customization options in the `~/.tmux.conf` configuration files**
+
+*You are able to customize settings in a clearer way*
+
+
+
+**Well-designed shortcuts**
+
+*Tmux shortcuts are now easier to access, and better for you to remember*
