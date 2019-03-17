@@ -10,7 +10,7 @@
 
 ## 安装
 
-你可能需要事先 <a href="installtmuxcn..md">安装 tmux</a>
+你可能需要事先 <a href="installtmux.cn.md">安装 tmux</a>
 
 如果你已经安装了 Tmux：
 
