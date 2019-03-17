@@ -71,6 +71,7 @@ Other shortcuts works the same way as default shortcuts does
 ## Features
 
 **Displaying status on the right bottom corner**
+
 *Prefix down, Battery remain, CPU percentage, Time*
 
 
