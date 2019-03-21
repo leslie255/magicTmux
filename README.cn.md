@@ -3,6 +3,9 @@
 # tmuxconfig
 
 **一个（超级炫酷的） Tmux 配置文件**
+<br>
+<img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg">
+<img src="https://img.shields.io/badge/release-1.1-blue.svg">
 
 <img src="./screenshot.png" width="84%">
 

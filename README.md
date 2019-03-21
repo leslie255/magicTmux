@@ -3,6 +3,9 @@
 <a href="README.cn.md">Chinese User？</a>
 
 **A super great configuration file for Tmux**
+<br>
+<img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg">
+<img src="https://img.shields.io/badge/release-1.1-blue.svg">
 
 <img src="./screenshot.png" width="84%">
 
