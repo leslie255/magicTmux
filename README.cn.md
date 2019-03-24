@@ -14,7 +14,7 @@
 
 在 Linux/macOS 上：
 
-`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/install.sh" | /bin/sh`
+`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/magicTmux/master/install.sh" | /bin/sh`
 
 在 Windows 上：
 手动把这个仓库 Clone 下来然后手动安装

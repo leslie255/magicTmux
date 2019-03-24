@@ -14,7 +14,7 @@ If tmux had already been installed:
 
 on Linux/macOS:
 
-`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/tmuxconfig/master/install.sh" | /bin/sh`
+`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/magicTmux/master/install.sh" | /bin/sh`
 
 on Windows:
 Clone the repo & manually install
