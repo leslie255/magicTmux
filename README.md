@@ -1,6 +1,4 @@
-# tmuxconfig
-<br>
-<img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg"><img src="https://img.shields.io/badge/release-1.1-blue.svg">
+# tmuxconfig<img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg"><img src="https://img.shields.io/badge/release-1.1-blue.svg">
 
 <a href="README.cn.md">Chinese User？</a>
 
