@@ -12,9 +12,9 @@
 
 如果你已经安装了 Tmux：
 
-在 Linux/macOS 上：
+在 Linux/macOS上(或者是任何类似 NUIX 的系统)：
 
-`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/magicTmux/master/install.sh" | /bin/sh`
+`curl -s "https://raw.githubusercontent.com/p-z-l/magicTmux/master/install.sh" | /bin/sh`
 
 在 Windows 上：
 手动把这个仓库 Clone 下来然后手动安装

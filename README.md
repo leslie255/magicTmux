@@ -12,9 +12,9 @@ You would need to <a href="installtmux.md">install tmux</a> first
 
 If tmux had already been installed:
 
-on Linux/macOS:
+on Linux/macOS (or any UNIX-like system):
 
-`curl -fsSL "https://raw.githubusercontent.com/peterzililuo/magicTmux/master/install.sh" | /bin/sh`
+`curl -s "https://raw.githubusercontent.com/p-z-l/magicTmux/master/install.sh" | /bin/sh`
 
 on Windows:
 Clone the repo & manually install
