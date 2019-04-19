@@ -84,4 +84,4 @@ Other shortcuts works the same way as default shortcuts does
 
 **Well-designed shortcuts**
 
-*Tmux shortcuts are now easier to access, and better for you to remember*
+*Tmux shortcuts are now easier to access, and better for you to remember*
