@@ -1,4 +1,4 @@
-# magicTmux <img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg"> <img src="https://img.shields.io/badge/release-1.1-blue.svg">
+# magicTmux <img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg"> <img src="https://img.shields.io/badge/release-1.2.0-blue.svg">
 
 **一个（超级炫酷的） Tmux 配置文件**
 
