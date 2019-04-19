@@ -39,9 +39,11 @@ git clone https://github.com/tmux-plugins/tmux-prefix-highlight.git ~/.tmux/plug
 
 tmux source-file ~/.tmux.conf
 
-echo "\033[32m\nInstallation Finished\n"
+echo "\033[32m\nInstallation Finished"
 
 if [ -f $TMUX ]; then
-	sleep 2
-	tmux
+	echo "Use command \"tmux\" to launch tmux"
 fi
+
+echo "\033[34mfor more info, see: \033[0mhttps://github.com/p-z-l/magicTmux"
+echo "\n\033[0m"
