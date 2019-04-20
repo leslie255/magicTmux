@@ -16,9 +16,8 @@ on Linux/macOS (or any UNIX-like system):
 
 `curl -s "https://raw.githubusercontent.com/p-z-l/magicTmux/master/install.sh" | /bin/sh`
 
-on Windows:
+on Windows:<br>
 Clone the repo & manually install
-(would supports auto-install for windows in the future)
 
 ## Usage
 

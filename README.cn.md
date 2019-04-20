@@ -16,9 +16,8 @@
 
 `curl -s "https://raw.githubusercontent.com/p-z-l/magicTmux/master/install.sh" | /bin/sh`
 
-在 Windows 上：
+在 Windows 上：<br>
 手动把这个仓库 Clone 下来然后手动安装
-（以后会提供针对 Windows 自动化安装脚本）
 
 ## 使用
 
