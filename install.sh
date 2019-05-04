@@ -19,7 +19,8 @@ rm -rf ~/.tmux
 
 echo "\033[33m\n... Is now installing"
 
-curl -s https://raw.githubusercontent.com/peterzililuo/magicTmux/master/tmux.conf -o ~/.tmux.conf
+touch ~/.tmux.conf
+curl -s https://raw.githubusercontent.com/p-z-l/magicTmux/master/tmux.conf -o ~/.tmux.conf
 
 echo "\033[32m\nInstalling Tmux Plugin Manager (TPM)\033[34m"
 
