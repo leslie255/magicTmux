@@ -1,27 +1,24 @@
 # magicTmux <img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg"> <img src="https://img.shields.io/badge/release-1.2.0-blue.svg">
 
-<a href="README.cn.md">Chinese User？</a>
-
-**A super great configuration file for Tmux**
+A tmux config that is easy to install and customize.
 
 <img src="./screenshot.png" width="84%">
 
-## Installation
+## Install
 
-You would need to <a href="installtmux.md">install tmux</a> first
+You need to <a href="installtmux.md">install tmux</a> first
 
 If tmux had already been installed:
 
-on Linux/macOS (or any UNIX-like system):
+Install magicTmux on Linux/macOS with a single command:
 
 `curl -s "https://raw.githubusercontent.com/p-z-l/magicTmux/master/install.sh" | /bin/sh`
 
-on Windows:<br>
-Clone the repo & manually install
+## Shortcuts
 
-## Usage
+**magicTmux uses `<C-x>` as prefix by default**
 
-**This config uses `<C-x>` as prefix, here is the shortcuts list:**
+***
 
 **Panes**
 
@@ -29,7 +26,7 @@ Clone the repo & manually install
 
 `<prefix> 2` spilit screen down
 
-`<prefix> 0` kill pane
+`<prefix> 0` close pane
 
 `<prefix> o` switch pane
 
@@ -41,7 +38,7 @@ Clone the repo & manually install
 
 `<prefix> L` resize pane right
 
-`<prefix> m` maximum pane
+`<prefix> m` maximize pane
 
 `<prefix> h/j/k/l` navigating between panes
 
@@ -63,24 +60,31 @@ Clone the repo & manually install
 
 `<prefix> s` hide/show status bar
 
-Other shortcuts works the same way as default shortcuts does
+***
 
+**Others**
+
+`<prefix> r` reload config
 
 
 ## Features
 
-**Displaying status on the right bottom corner**
+**Display status on the status bar** (*Prefix-down alert, Battery percentage, CPU percentage, Date&Time*)
 
-*Prefix down, Battery remain, CPU percentage, Time*
+**Customize options in the `~/.tmux.conf` configuration files**
 
+**Better shortcuts**
 
+## Contributing
 
-**Lots of customization options in the `~/.tmux.conf` configuration files**
+Open an issue if you:
+- have a feature request
+- encountered any unexpected behaviers
+- have some difficulties while installing or using magicTmux
 
-*You are able to customize settings in a clearer way*
+Pull Requests are also welcomed!
 
+All issues and pull requests should be submitted either in English (recommended) or Chinese.
 
-
-**Well-designed shortcuts**
-
-*Tmux shortcuts are now easier to access, and better for you to remember*
+## License
+*magicTmux is licensed under GPLv3*
