@@ -16,13 +16,6 @@ echo "    | || '_ \` _ \\ | | | |\\ \\/ /    "
 echo "    | || | | | | || |_| | >  <     "
 echo "    |_||_| |_| |_| \\__,_|/_/\\_\\    "
 
-# Make sure tmux is installed
-if ! command -v tmux &> /dev/null
-then
-echo "\033[0m Tmux is not installed, "
-exit 1
-fi
-
 dialog() {
    echo "\033[32m$1\033[34m"
 }
